@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import Projects from './portfolio/Projects'
 
 export default class About extends Component {
   render() {

@@ -35,6 +35,33 @@ span {
   color: white;
 }
 
+.splash {
+  height: 100vh;
+  position: relative;
+
+  div {
+    position: absolute;
+    top: 30vh;
+    left: 20vw;
+    z-index: 1;
+
+    h1 {
+      font-size: 5em;
+      margin-bottom: 0;
+    }
+
+    h2 {
+      position: relative;
+    }
+  }
+
+  img {
+    position: absolute;
+    left: 28vw;
+    top: 12vh;
+  }
+}
+
 .about {
   background-color: $color1;
   height: 50vh;
@@ -58,7 +85,7 @@ span {
     position: -webkit-sticky;
     position: sticky;
     top: 45vh;
-    margin-top: 45vh;
+    // margin-top: 45vh;
     }
 
   }
@@ -68,6 +95,7 @@ span {
 
     .project {
       margin: 50px auto;
+      width: 70%;
       display: flex;
       background-color: $color1;
       padding: 20px;
