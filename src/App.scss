@@ -1,0 +1,88 @@
+/* color scheme */
+$background: #0B0C10;
+$color1: #1F2833;
+$color2: #66FCF1;
+$grey: #C5C6C7;
+
+.App {
+  /*text-align: center;*/
+}
+
+body {
+  background-color: $background;
+}
+
+h1, h2 {
+  color: white;
+}
+
+p {
+  color: $grey;
+}
+
+span {
+  color: $color2;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.about {
+  background-color: $color1;
+  height: 50vh;
+
+  h1 {
+    text-align: center;
+    position: relative;
+    top: 45%;
+  }
+}
+
+.portfolio {
+  display: flex;
+  // max-height: 100vh;
+
+  .title {
+    flex: 30%;
+
+    h1 {
+    text-align: center;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 45vh;
+    margin-top: 45vh;
+    }
+
+  }
+
+  .projects {
+    flex: 70%;
+
+    .project {
+      margin: 50px auto;
+      display: flex;
+      background-color: $color1;
+      padding: 20px;
+      border-radius: 0 25px 25px 0;
+      border-left: 5px solid $color2;
+    
+      .content {
+        margin-left: 25px;
+      }
+    
+      img {
+        width: 400px;
+      }
+    }
+  }
+
+}
+
