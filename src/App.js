@@ -14,13 +14,9 @@ export default class App extends Component {
         <div className="App">
           <div className="container">
             <Header />
-            <Route exact path="/" render={props => (
-              <React.Fragment>
-                <Splash />
-                <Portfolio/>
-                <About/>
-              </React.Fragment>
-            )} />
+            <Splash />
+            <Portfolio />
+            <About />
           </div>
         </div>
       </Router>
