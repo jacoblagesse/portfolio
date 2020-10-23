@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
+import Header from './components/layout/Header'
 import Splash from './components/Splash'
 import Portfolio from './components/portfolio/Portfolio'
 import About from './components/About'
@@ -12,12 +13,12 @@ export default class App extends Component {
       <Router>
         <div className="App">
           <div className="container">
-            <Route exact path="/" />
-            <Route path="/portfolio" render={props => (
+            <Header />
+            <Route exact path="/" render={props => (
               <React.Fragment>
                 <Splash />
-                <Portfolio />
-                <About />
+                <Portfolio/>
+                <About/>
               </React.Fragment>
             )} />
           </div>
