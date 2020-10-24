@@ -4,10 +4,6 @@ $color1: #1F2833;
 $color2: #66FCF1;
 $grey: #C5C6C7;
 
-.App {
-  /*text-align: center;*/
-}
-
 body {
   background-color: $background;
 }
@@ -25,10 +21,12 @@ span {
 }
 
 .header {
+  $bordersize: 1px;
+
   background-color: $background;
   text-align: center;
   font-size: 1em;
-  padding: 17px;
+  padding: 15px + $bordersize;
   position: sticky;
   top: 0;
   z-index: 10;
@@ -40,7 +38,7 @@ span {
   }
 
   .link:hover {
-    border-bottom: 2px solid $color2;
+    border-bottom: $bordersize solid $color2;
   }
 }
 
@@ -50,13 +48,14 @@ span {
 
   div {
     position: absolute;
-    top: 30vh;
-    left: 20vw;
+    top: 60vh;
+    left: 15vw;
     z-index: 1;
 
     h1 {
       font-size: 5em;
       margin-bottom: 0;
+      border-top: 1px solid $color2;
     }
 
     h2 {
@@ -66,19 +65,41 @@ span {
 
   img {
     position: absolute;
-    left: 28vw;
-    top: 12vh;
+    left: 20vw;
+    top: 0vh;
   }
 }
 
 .about {
   background-color: $color1;
-  height: 50vh;
+  height: 100vh;
 
-  h1 {
-    text-align: center;
+  .container {
     position: relative;
-    top: 45%;
+    background-color: $color1;
+
+    img {
+      width: 100vw;
+      max-height: 100vh;
+      object-fit: cover;
+      opacity: 0.5;
+      position: absolute;
+      top: 0;
+      // z-index: 1;
+    }
+
+    .content {
+      position: absolute;
+      top: 0;
+      width: 100%;
+
+      h1 {
+        font-size: 2.5em;
+        position: absolute;
+        top: 15vh;
+        left: 8vw;
+      }
+    }
   }
 }
 
@@ -94,19 +115,20 @@ span {
     position: -webkit-sticky;
     position: sticky;
     top: 45vh;
-    // margin-top: 45vh;
+    margin-bottom: 45vh;
     }
 
   }
 
   .projects {
     flex: 70%;
+    margin-top: 45vh;
 
     .project {
-      margin: 50px auto;
-      width: 50%;
+      margin-top: 50px;
+      width: 70%;
       display: flex;
-      // background-color: $color1;
+      background-color: $color1;
       padding: 20px;
       border-radius: 0 25px 25px 0;
       border-left: 5px solid $color2;
@@ -119,6 +141,7 @@ span {
       .content {
         margin-left: 25px;
       }
+
     
       img {
         width: 400px;

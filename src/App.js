@@ -15,8 +15,9 @@ export default class App extends Component {
           <div className="container">
             <Header />
             <Splash />
-            <Portfolio />
             <About />
+            <Portfolio />
+            
           </div>
         </div>
       </Router>
