@@ -1,25 +1,31 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.47260e23.chunk.css",
-    "main.js": "/portfolio/static/js/main.bc8768d1.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.bc8768d1.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.7fa6494c.chunk.css",
+    "main.js": "/portfolio/static/js/main.041f3bc8.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.041f3bc8.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.b5ba12af.chunk.js": "/portfolio/static/js/2.b5ba12af.chunk.js",
-    "static/js/2.b5ba12af.chunk.js.map": "/portfolio/static/js/2.b5ba12af.chunk.js.map",
+    "static/js/2.f587b819.chunk.js": "/portfolio/static/js/2.f587b819.chunk.js",
+    "static/js/2.f587b819.chunk.js.map": "/portfolio/static/js/2.f587b819.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.9bd0ac67308a9f4074c0f4f7d2a775e2.js": "/portfolio/precache-manifest.9bd0ac67308a9f4074c0f4f7d2a775e2.js",
+    "precache-manifest.f8a2a332add8064cfce63dbc337f5bc5.js": "/portfolio/precache-manifest.f8a2a332add8064cfce63dbc337f5bc5.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.47260e23.chunk.css.map": "/portfolio/static/css/main.47260e23.chunk.css.map",
-    "static/js/2.b5ba12af.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b5ba12af.chunk.js.LICENSE.txt",
+    "static/css/main.7fa6494c.chunk.css.map": "/portfolio/static/css/main.7fa6494c.chunk.css.map",
+    "static/js/2.f587b819.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f587b819.chunk.js.LICENSE.txt",
     "static/media/bluemap.png": "/portfolio/static/media/bluemap.583d43f1.png",
+    "static/media/boc.png": "/portfolio/static/media/boc.5615834d.png",
+    "static/media/covid.png": "/portfolio/static/media/covid.b8221585.png",
     "static/media/fishing.jpg": "/portfolio/static/media/fishing.4683c3bf.jpg",
-    "static/media/nyt.png": "/portfolio/static/media/nyt.3892cda1.png"
+    "static/media/maneater_logo.png": "/portfolio/static/media/maneater_logo.894ecb48.png",
+    "static/media/nyt.png": "/portfolio/static/media/nyt.3892cda1.png",
+    "static/media/nyt_logo.png": "/portfolio/static/media/nyt_logo.3f539352.png",
+    "static/media/rji_logo.jpg": "/portfolio/static/media/rji_logo.dca9636c.jpg",
+    "static/media/vooc.png": "/portfolio/static/media/vooc.5c6e1a0e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.b5ba12af.chunk.js",
-    "static/css/main.47260e23.chunk.css",
-    "static/js/main.bc8768d1.chunk.js"
+    "static/js/2.f587b819.chunk.js",
+    "static/css/main.7fa6494c.chunk.css",
+    "static/js/main.041f3bc8.chunk.js"
   ]
 }
