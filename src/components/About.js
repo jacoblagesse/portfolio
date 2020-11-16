@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import Projects from './portfolio/Projects'
 
 export default class About extends Component {
   render() {
@@ -7,8 +6,16 @@ export default class About extends Component {
       <div className='about' id='about'>
         <div className='container'>
           <img src={require('../assets/images/fishing.jpg')} alt='Fishing background'/>
+          <h1><span>> </span>I'm a computer science and datajournalism student at Mizzou</h1>
           <div className='content'>
-            <h1><span>> </span>I'm studying computer science and datajournalism at Mizzou</h1>
+            <div className='box'>
+            </div>
+            <div className='box'>
+            </div>
+            <div className='box'>
+            </div>
+            <div className='bottom-box'>
+            </div>
           </div>
         </div>
       </div>

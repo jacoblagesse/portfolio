@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
+
 import Header from './components/layout/Header'
 import Splash from './components/Splash'
 import Portfolio from './components/portfolio/Portfolio'
@@ -15,9 +16,8 @@ export default class App extends Component {
           <div className="container">
             <Header />
             <Splash />
-            <About />
             <Portfolio />
-            
+            {/* <About /> */}
           </div>
         </div>
       </Router>

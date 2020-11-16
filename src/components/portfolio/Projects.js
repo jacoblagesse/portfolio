@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Project from './Project'
-import PropTypes from 'prop-types';
+import PropTypes from 'prop-types'
 
 export default class Projects extends Component {
   render() {
