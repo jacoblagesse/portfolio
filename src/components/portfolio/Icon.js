@@ -7,7 +7,7 @@ export default class Icon extends Component {
 
     return (
       <div className='icon'>
-        <a href={url}>
+        <a href={url} target='_blank' rel='noopener noreferrer'>
           <img src={image}/>
         </a>
       </div>
