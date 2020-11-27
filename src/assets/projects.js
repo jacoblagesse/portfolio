@@ -20,7 +20,8 @@ export const projects  = [
     description: 'Collection + visualization of live election results, developed in a partnership with the Voice of Orange County.',
     media: require('./Videos/vooc.mp4'),
     url: 'https://voiceofoc.org/orange-county-2020-election/',
-    url2: '',
+    url2: 'https://observablehq.com/@mizzou-journalism/vooc-bar-chart',
+    url3: 'https://github.com/rji-futures-lab/vooc-election-results',
     vid: true
   },
   {
@@ -28,21 +29,23 @@ export const projects  = [
     title: 'MU Covid-19 Scraper',
     description: 'An automated scraper + dashboard system integrating Google App Scripts with Python triggers and Tableau\'s visualization software.',
     media: require('./images/covid.png'),
-    url: ''
-  },
-  {
-    id: 4,
-    title: 'MU Covid-19 Scraper',
-    description: 'An automated scraper + dashboard system integrating Google App Scripts with Python triggers and Tableau\'s visualization software.',
-    media: require('./images/covid.png'),
-    url: ''
+    url: 'https://www.themaneater.com/stories/campus/dashboard:-covid-19-at-mu',
+    url2: 'https://github.com/jacoblagesse/covid-scraper',
+    url3: 'https://github.com/jacoblagesse/covid-scraper-trigger'
   },
   {
     id: 5,
+    title: 'FCC File Analysis',
+    description: 'A Django project to extract and analyze data from political advertisement contracts uploaded to the FCC\'s database. Still under development.',
+    media: require('./images/fccdocs.png'),
+    url2: 'https://github.com/rji-futures-lab/django-fcc-opif'
+  },
+  {
+    id: 6,
     title: 'Image Mapper',
     description: 'A Python visualization tool that maps a chart, map or image onto a 3D plane.',
     media: require('./Videos/imgmap.mp4'),
-    url: '',
+    url2: 'https://github.com/jacoblagesse/image-mapper',
     vid: true
   }
 ]
