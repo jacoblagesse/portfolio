@@ -1,31 +1,34 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7fa6494c.chunk.css",
-    "main.js": "/portfolio/static/js/main.041f3bc8.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.041f3bc8.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.a2046c2f.chunk.css",
+    "main.js": "/portfolio/static/js/main.927c4a62.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.927c4a62.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.f587b819.chunk.js": "/portfolio/static/js/2.f587b819.chunk.js",
-    "static/js/2.f587b819.chunk.js.map": "/portfolio/static/js/2.f587b819.chunk.js.map",
+    "static/js/2.d04f1962.chunk.js": "/portfolio/static/js/2.d04f1962.chunk.js",
+    "static/js/2.d04f1962.chunk.js.map": "/portfolio/static/js/2.d04f1962.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.f8a2a332add8064cfce63dbc337f5bc5.js": "/portfolio/precache-manifest.f8a2a332add8064cfce63dbc337f5bc5.js",
+    "precache-manifest.f2ba32490d25e3ee2233810edf4fa42b.js": "/portfolio/precache-manifest.f2ba32490d25e3ee2233810edf4fa42b.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.7fa6494c.chunk.css.map": "/portfolio/static/css/main.7fa6494c.chunk.css.map",
-    "static/js/2.f587b819.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f587b819.chunk.js.LICENSE.txt",
+    "static/css/main.a2046c2f.chunk.css.map": "/portfolio/static/css/main.a2046c2f.chunk.css.map",
+    "static/js/2.d04f1962.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d04f1962.chunk.js.LICENSE.txt",
+    "static/media/LaGesseResume.pdf": "/portfolio/static/media/LaGesseResume.65f7b238.pdf",
     "static/media/bluemap.png": "/portfolio/static/media/bluemap.583d43f1.png",
     "static/media/boc.png": "/portfolio/static/media/boc.5615834d.png",
-    "static/media/covid.png": "/portfolio/static/media/covid.b8221585.png",
+    "static/media/covid.png": "/portfolio/static/media/covid.fe22d3e3.png",
+    "static/media/fccdocs.png": "/portfolio/static/media/fccdocs.7e68fba4.png",
     "static/media/fishing.jpg": "/portfolio/static/media/fishing.4683c3bf.jpg",
+    "static/media/imgmap.mp4": "/portfolio/static/media/imgmap.1d485e0a.mp4",
     "static/media/maneater_logo.png": "/portfolio/static/media/maneater_logo.894ecb48.png",
-    "static/media/nyt.png": "/portfolio/static/media/nyt.3892cda1.png",
+    "static/media/nyt2.png": "/portfolio/static/media/nyt2.93cd99c2.png",
     "static/media/nyt_logo.png": "/portfolio/static/media/nyt_logo.3f539352.png",
     "static/media/rji_logo.jpg": "/portfolio/static/media/rji_logo.dca9636c.jpg",
-    "static/media/vooc.png": "/portfolio/static/media/vooc.5c6e1a0e.png"
+    "static/media/vooc.mp4": "/portfolio/static/media/vooc.185f229c.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.f587b819.chunk.js",
-    "static/css/main.7fa6494c.chunk.css",
-    "static/js/main.041f3bc8.chunk.js"
+    "static/js/2.d04f1962.chunk.js",
+    "static/css/main.a2046c2f.chunk.css",
+    "static/js/main.927c4a62.chunk.js"
   ]
 }
