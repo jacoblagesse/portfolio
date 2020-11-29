@@ -1,22 +1,22 @@
 export const projects  = [
   {
     id: 1,
-    title: 'NYT Covid-19 Tracking',
-    description: 'Development and maintenance of ~40 Node.js scrapers to automate data collection + analysis for The New York Times\'s Covid-19 tracking project.',
+    title: 'New York Times Covid-19 Tracking',
+    description: 'I Develop and maintenain ~40 Node.js scrapers to automate data collection + analysis for The New York Times\'s Covid-19 tracking project.',
     media: require('./images/nyt2.png'),
     url: 'https://www.nytimes.com/interactive/2020/us/coronavirus-nursing-homes.html'
   },
   {
     id: 2,
-    title: 'BOC Data',
-    description: 'An interactive tool for visualizing donations from members of MU\'s Board of Curators to political organizations',
+    title: 'Political Donation Interactive',
+    description: 'An interactive D3.js tool for visualizing donations from members of MU\'s Board of Curators to political organizations',
     media: require('./images/boc.png'),
-    url: 'https://github.com/jacoblagesse/BOC-data',
-    url2: 'https://jacoblagesse.github.io/BOC-data/'
+    url: 'https://jacoblagesse.github.io/BOC-data/',
+    url2: 'https://github.com/jacoblagesse/BOC-data'
   },
   {
     id: 3,
-    title: 'Voice of Orange County Election Results',
+    title: 'Live Election Results for Voice of Orange County',
     description: 'Collection + visualization of live election results, developed in a partnership with the Voice of Orange County.',
     media: require('./Videos/vooc.mp4'),
     url: 'https://voiceofoc.org/orange-county-2020-election/',
@@ -26,7 +26,7 @@ export const projects  = [
   },
   {
     id: 4,
-    title: 'MU Covid-19 Scraper',
+    title: 'Campus Covid-19 Scraper',
     description: 'An automated scraper + dashboard system integrating Google App Scripts with Python triggers and Tableau\'s visualization software.',
     media: require('./images/covid.png'),
     url: 'https://www.themaneater.com/stories/campus/dashboard:-covid-19-at-mu',
@@ -35,15 +35,15 @@ export const projects  = [
   },
   {
     id: 5,
-    title: 'FCC File Analysis',
+    title: 'Political Ad Data Analysis',
     description: 'A Django project to extract and analyze data from political advertisement contracts uploaded to the FCC\'s database. Still under development.',
     media: require('./images/fccdocs.png'),
     url2: 'https://github.com/rji-futures-lab/django-fcc-opif'
   },
   {
     id: 6,
-    title: 'Image Mapper',
-    description: 'A Python visualization tool that maps a chart, map or image onto a 3D plane.',
+    title: '3D Viz Tool',
+    description: 'A Python tool that maps a 2D chart, map or image onto an animated 3D visualization.',
     media: require('./Videos/imgmap.mp4'),
     url2: 'https://github.com/jacoblagesse/image-mapper',
     vid: true
