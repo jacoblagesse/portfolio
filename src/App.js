@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
 
 import Header from './components/layout/Header'
+import Footer from './components/layout/Footer'
 import Splash from './components/Splash'
 import Portfolio from './components/portfolio/Portfolio'
 import About from './components/About'
@@ -18,6 +19,7 @@ export default class App extends Component {
             <Splash />
             <Portfolio />
             {/* <About /> */}
+            <Footer />
           </div>
         </div>
       </Router>

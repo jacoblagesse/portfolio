@@ -2,7 +2,7 @@ export const projects  = [
   {
     id: 1,
     title: 'New York Times Covid-19 Tracking',
-    description: 'I Develop and maintenain ~40 Node.js scrapers to automate data collection + analysis for The New York Times\'s Covid-19 tracking project.',
+    description: 'I develop and maintenain ~40 Node.js scrapers to automate data collection + analysis for The New York Times\'s Covid-19 tracking project.',
     media: require('./images/nyt2.png'),
     url: 'https://www.nytimes.com/interactive/2020/us/coronavirus-nursing-homes.html'
   },
