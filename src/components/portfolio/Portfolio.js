@@ -12,7 +12,7 @@ export default class Portfolio extends Component {
           <div className='icon-container'>
             <Icons icons={icons} />
           </div>
-          <h1>Telling Innovative Visual Stories</h1>
+          <h1>Data, Code and Visualization</h1>
         </div>
         <div className='projects'>
           <Projects projects={projects} />
