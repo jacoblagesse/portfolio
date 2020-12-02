@@ -185,20 +185,31 @@ span {
   .title {
 
     h1 {
-    position: relative;
-    top: 10vh;
-    margin: 5vh auto 15vh auto;
-    text-align: center;
-    color: $color1;
-    font-size: 3em;
+      position: relative;
+      top: 10vh;
+      margin: 5vh auto 15vh auto;
+      text-align: center;
+      color: $color1;
+      font-size: 3em;
+    }
+
+    p {
+      position: relative;
+      margin: -1vh auto 5vh auto;
+      text-align: center;
+      color: $color1;
     }
 
     @media screen and (max-width:768px) {
-      h1 {
+      h1, p {
         left: 0;
         right: 0;
         width: 300px;
         font-size: 2em;
+      }
+
+      p {
+        font-size: 1em;
       }
     }
 
@@ -234,7 +245,7 @@ span {
       margin: 50px auto;
       width: 40%;
       max-height: 40%;
-      background-color: $color1;
+      background-color: white;
       position: relative;
     
       .overlay {

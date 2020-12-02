@@ -12,7 +12,8 @@ export default class Portfolio extends Component {
           <div className='icon-container'>
             <Icons icons={icons} />
           </div>
-          <h1>Data, Code and Visualization</h1>
+          <h1>Portfolio</h1>
+          <p><span>[ </span>Code, data analysis and visualization <span> ]</span></p>
         </div>
         <div className='projects'>
           <Projects projects={projects} />

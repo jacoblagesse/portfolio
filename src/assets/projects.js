@@ -26,7 +26,7 @@ export const projects  = [
   },
   {
     id: 4,
-    title: 'Campus Covid-19 Scraper',
+    title: 'Campus Covid-19 Dashboard',
     description: 'An automated scraper + dashboard system integrating Google App Scripts with Python triggers and Tableau\'s visualization software.',
     media: require('./images/covid.png'),
     url: 'https://www.themaneater.com/stories/campus/dashboard:-covid-19-at-mu',
@@ -43,7 +43,7 @@ export const projects  = [
   {
     id: 6,
     title: '3D Viz Tool',
-    description: 'A Python tool that maps a 2D chart, map or image onto an animated 3D visualization.',
+    description: 'A Python tool that transforms a 2D chart, map or image into an animated 3D visualization.',
     media: require('./Videos/imgmap.mp4'),
     url2: 'https://github.com/jacoblagesse/image-mapper',
     vid: true
