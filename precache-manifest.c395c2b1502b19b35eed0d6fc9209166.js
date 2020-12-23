@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e45080d054b0bba4bca9ea50b5b44b51",
+    "revision": "088e9dbb5b438d10a3034c363b2e041d",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "279793fc162f686c0cd7",
+    "revision": "a4f1f41d448205b77329",
     "url": "/portfolio/static/css/main.021c152b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.973a3f2d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "279793fc162f686c0cd7",
-    "url": "/portfolio/static/js/main.add21379.chunk.js"
+    "revision": "a4f1f41d448205b77329",
+    "url": "/portfolio/static/js/main.c3c06971.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dca9636c65717d527f0a8d83a7b50aee",
     "url": "/portfolio/static/media/rji_logo.dca9636c.jpg"
+  },
+  {
+    "revision": "0808072f7000530194d169b576b49a83",
+    "url": "/portfolio/static/media/spotify_api.0808072f.png"
   },
   {
     "revision": "185f229c17ce72d1684c0a786984e111",
