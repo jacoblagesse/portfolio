@@ -8,6 +8,14 @@ export const projects  = [
   },
   {
     id: 2,
+    title: 'Spotify API Web App',
+    description: 'A project to track users\' trending artists and tracks using Spotify\'s Web API.',
+    media: require('./images/spotify_api.png'),
+    url: 'http://ec2-54-227-95-23.compute-1.amazonaws.com/jslct5FinalProject/',
+    url2: 'https://github.com/jacoblagesse/spotify-tracker'
+  },
+  {
+    id: 3,
     title: 'Political Donation Interactive',
     description: 'An interactive D3.js tool for visualizing donations from members of MU\'s Board of Curators to political organizations',
     media: require('./images/boc.png'),
@@ -15,7 +23,7 @@ export const projects  = [
     url2: 'https://github.com/jacoblagesse/BOC-data'
   },
   {
-    id: 3,
+    id: 4,
     title: 'Live Election Results for Voice of Orange County',
     description: 'Collection + visualization of live election results, developed in a partnership with the Voice of Orange County.',
     media: require('./Videos/vooc.mp4'),
@@ -25,7 +33,7 @@ export const projects  = [
     vid: true
   },
   {
-    id: 4,
+    id: 5,
     title: 'Campus Covid-19 Dashboard',
     description: 'An automated scraper + dashboard system integrating Google App Scripts with Python triggers and Tableau\'s visualization software.',
     media: require('./images/covid.png'),
@@ -34,14 +42,14 @@ export const projects  = [
     url3: 'https://github.com/jacoblagesse/covid-scraper-trigger'
   },
   {
-    id: 5,
+    id: 6,
     title: 'Political Ad Data Analysis',
     description: 'A Django project to extract and analyze data from political advertisement contracts uploaded to the FCC\'s database. Still under development.',
     media: require('./images/fccdocs.png'),
     url2: 'https://github.com/rji-futures-lab/django-fcc-opif'
   },
   {
-    id: 6,
+    id: 7,
     title: '3D Viz Tool',
     description: 'A Python tool that transforms a 2D chart, map or image into an animated 3D visualization.',
     media: require('./Videos/imgmap.mp4'),
