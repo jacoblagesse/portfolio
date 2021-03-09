@@ -11,7 +11,7 @@ export const projects  = [
     title: 'Spotify API Web App',
     description: 'A project to track users\' trending artists and tracks using Spotify\'s Web API.',
     media: require('./images/spotify_api.png'),
-    url: 'http://ec2-54-227-95-23.compute-1.amazonaws.com/jslct5FinalProject/',
+    url: 'http://spotifytrack.me/',
     url2: 'https://github.com/jacoblagesse/spotify-tracker'
   },
   {
