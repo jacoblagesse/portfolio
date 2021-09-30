@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.021c152b.chunk.css",
+    "main.js": "/portfolio/static/js/main.41905611.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.41905611.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.973a3f2d.chunk.js": "/portfolio/static/js/2.973a3f2d.chunk.js",
+    "static/js/2.973a3f2d.chunk.js.map": "/portfolio/static/js/2.973a3f2d.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.a2fd7c58fb0dadc913b64fa341b6fc89.js": "/portfolio/precache-manifest.a2fd7c58fb0dadc913b64fa341b6fc89.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.021c152b.chunk.css.map": "/portfolio/static/css/main.021c152b.chunk.css.map",
+    "static/js/2.973a3f2d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.973a3f2d.chunk.js.LICENSE.txt",
+    "static/media/CGI.jpg": "/portfolio/static/media/CGI.30bae8d6.jpg",
+    "static/media/LaGesseResume2021.pdf": "/portfolio/static/media/LaGesseResume2021.2caa02f6.pdf",
+    "static/media/bluemap.png": "/portfolio/static/media/bluemap.583d43f1.png",
+    "static/media/boc.png": "/portfolio/static/media/boc.5615834d.png",
+    "static/media/covid.png": "/portfolio/static/media/covid.1472bdc9.png",
+    "static/media/fccdocs.png": "/portfolio/static/media/fccdocs.5ba2a649.png",
+    "static/media/fishing.jpg": "/portfolio/static/media/fishing.4683c3bf.jpg",
+    "static/media/imgmap.mp4": "/portfolio/static/media/imgmap.25a28079.mp4",
+    "static/media/maneater_logo.png": "/portfolio/static/media/maneater_logo.894ecb48.png",
+    "static/media/nyt2.png": "/portfolio/static/media/nyt2.93cd99c2.png",
+    "static/media/nyt_logo.png": "/portfolio/static/media/nyt_logo.3f539352.png",
+    "static/media/rji_logo.jpg": "/portfolio/static/media/rji_logo.dca9636c.jpg",
+    "static/media/spotify_api.png": "/portfolio/static/media/spotify_api.0808072f.png",
+    "static/media/vooc.mp4": "/portfolio/static/media/vooc.185f229c.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.973a3f2d.chunk.js",
+    "static/css/main.021c152b.chunk.css",
+    "static/js/main.41905611.chunk.js"
+  ]
+}
