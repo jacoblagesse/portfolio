@@ -1,6 +1,6 @@
 import React from 'react';
 import { HashLink } from 'react-router-hash-link';
-import Resume from '../../assets/LaGesseResume.pdf';
+import Resume from '../../assets/LaGesseResume2021.pdf';
 
 export default function Header({ location }) {
   return (
