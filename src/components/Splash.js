@@ -8,7 +8,7 @@ export default class Splash extends Component {
       <div className='splash'>
         <div className='text'>
           <h1>Jacob LaGesse</h1>
-          <h2>Developer<span> / </span>Designer</h2>
+          {/* <h2>Software Engineer</h2> */}
           <div className='logo-container'>
             <Icons icons={logos} />
           </div>
